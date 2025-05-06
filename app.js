@@ -16,3 +16,4 @@ $(document).on("change", "input[type='checkbox']", function () {
     }
 });
 
+// こんにちは，世界！
